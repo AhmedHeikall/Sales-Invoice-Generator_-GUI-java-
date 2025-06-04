@@ -22,10 +22,10 @@ The **Sales Invoice Generator (SIG)** is a Java-based desktop application design
 
 ## 🛠️ Technologies Used
 
-- **Programming Language**: Java
+- **Programming Language**: Java programming language
 - **GUI Framework**: Java Swing
 - **File I/O**: CSV reading and writing
-- **IDE**: [Your IDE, e.g., IntelliJ IDEA, Eclipse]
+- **IDE**: IntelliJ IDEA
 - **Data Storage**: Local file system (CSV files)
 
 ---
