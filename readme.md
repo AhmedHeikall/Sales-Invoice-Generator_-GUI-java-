@@ -37,8 +37,8 @@ The **Sales Invoice Generator (SIG)** is a Java-based desktop application design
 
 ## 📷 Screenshots
 
-(assets/s1.png)
-(assets/s1.png)
+(./sets/s1.png)
+(./sets/s1.png)
 
 ## 📘 What I Learned
 
