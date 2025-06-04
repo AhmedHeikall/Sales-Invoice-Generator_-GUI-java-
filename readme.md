@@ -35,6 +35,11 @@ The **Sales Invoice Generator (SIG)** is a Java-based desktop application design
 - `InvoiceHeader.csv`: Stores metadata of invoices (Invoice No., Date, Customer Name)
 - `InvoiceLine.csv`: Stores line-item details for each invoice (Item Name, Count, Price)
 
+## 📷 Screenshots
+
+(assets/s1.png)
+(assets/s1.png)
+
 ## 📘 What I Learned
 
 Through developing the Sales Invoice Generator, I gained practical experience in:
